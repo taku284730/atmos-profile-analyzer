@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+numpy
+pandas
+metpy
+xarray
+cfgrib
+eccodes
+cdsapi
+html5lib
+lxml
