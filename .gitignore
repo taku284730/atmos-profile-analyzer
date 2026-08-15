@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ERA5 cache
+era5_cache/
+*.grib
+*.idx
+
+# CDS API
+.cdsapirc
