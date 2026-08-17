@@ -97,21 +97,25 @@ streamlit run app.py
 
 ## Data Sources
 
-### Radiosonde
+### Radiosonde Observations
+
+Upper-air observations are provided by the Japan Meteorological Agency (JMA).
 
 Japan Meteorological Agency (JMA)
-
 https://www.data.jma.go.jp/
 
-### ERA5
+---
+
+### ERA5 Reanalysis
 
 This application uses ERA5 reanalysis data provided by the Copernicus Climate Change Service (C3S).
 
 Generated using Copernicus Climate Change Service information.
 
+Copernicus Climate Change Service (C3S)
 https://cds.climate.copernicus.eu/
 
----
+ERA5 data © European Union.
 
 ## Roadmap
 
@@ -146,3 +150,14 @@ Takuro Odagawa
 Science Teacher (Japan)
 
 Interested in atmospheric science, weather forecasting, and science education.
+
+
+
+
+
+
+
+## Disclaimer
+
+This project is an independent educational and research application.
+It is not affiliated with or endorsed by the Japan Meteorological Agency (JMA), ECMWF, or the Copernicus Climate Change Service (C3S).

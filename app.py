@@ -474,3 +474,38 @@ else:
         )
 
         st.exception(exc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st.sidebar.markdown("---")
+st.sidebar.caption(
+    """
+**Data Sources**
+
+• Japan Meteorological Agency (JMA)
+
+• ERA5 Reanalysis (Copernicus Climate Change Service, C3S)
+
+© European Union
+"""
+)
